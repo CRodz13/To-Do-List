@@ -31,7 +31,7 @@ a {
     color: #fff;
     padding: 10px;
     border-radius: 5px 5px 0 0;
-    background: linear-gradient(90deg, #EEA390 0%, #EB796F 43%, #EB796F 100%);
+    background: linear-gradient(90deg, #059DC0 0%, #059DC0 43%, #059DC0 100%);
 }
 
 input {
@@ -40,7 +40,7 @@ input {
 }
 
 .header-bar a{
-    color: rgb(5, 157, 192);
+    color: rgb(247, 247, 247);
     text-decoration: none;
 }
 
