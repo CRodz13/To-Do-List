@@ -31,7 +31,7 @@ a {
     color: #fff;
     padding: 10px;
     border-radius: 5px 5px 0 0;
-    background: linear-gradient(90deg, #059DC0 0%, #059DC0 43%, #059DC0 100%);
+    background: linear-gradient(90deg, #0a768f 0%, #059DC0 43%, #059DC0 100%);
 }
 
 input {
@@ -126,7 +126,7 @@ input {
 }
 
 #add-link {
-    color: #EB796F;
+    color: #059DC0;
     text-decoration: none;
     font-size: 42px;
     text-shadow: 1px 1px #81413b;
@@ -159,9 +159,9 @@ label {
 }
 
 .button {
-    border: 1px solid #04D4F0;
+    border: 1px solid #059DC0;
     background-color: #FAFAFA;
-    color: #EB796F;
+    color: #059DC0;
     padding: 10px;
     font-size: 14px;
     border-radius: 5px;
