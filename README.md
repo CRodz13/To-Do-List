@@ -27,4 +27,5 @@
 
 <br>
   <h3>Update Page</h3>
-  ![update](https://user-images.githubusercontent.com/78927284/157768468-34c19f33-7d1f-4237-9597-e2cf98d2a543.png)
+  
+![update](https://user-images.githubusercontent.com/78927284/157768468-34c19f33-7d1f-4237-9597-e2cf98d2a543.png)
